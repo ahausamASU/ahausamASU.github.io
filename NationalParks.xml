@@ -1,28 +1,123 @@
 <?xml version="1.0" encoding="utf-8"?>
 <NationalParks>
   
-  <NationalPark Rating="5">
-    <Name>Grand Canyon</Name>
-    <Phone>928-638-7888</Phone>
-    <Address NearestAirport="PHX">
-      <Number>PO Box 129</Number>
-      <Street>Highway 64</Street>
-      <City>Grand Canyon</City>
-      <State>AZ</State>
-      <Zip>86023</Zip>
+  <NationalPark Rating="X">
+    <Name></Name>
+    <Phone></Phone>
+    <Address NearestAirport="XXX">
+      <Number></Number>
+      <Street></Street>
+      <City></City>
+      <State></State>
+      <Zip></Zip>
     </Address>
   </NationalPark>
 
-  <NationalPark>
-    <Name>Yosemite</Name>
-    <Phone>209-372-0200</Phone>
-    <Phone>209-372-4745</Phone>
-    <Address NearestAirport="FAT">
-      <Number>9035</Number>
-      <Street>Village Drive</Street>
-      <City>Yosemite National Park</City>
-      <State>CA</State>
-      <Zip>95389</Zip>
+  <NationalPark Rating="X">
+    <Name></Name>
+    <Phone></Phone>
+    <Address NearestAirport="XXX">
+      <Number></Number>
+      <Street></Street>
+      <City></City>
+      <State></State>
+      <Zip></Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark Rating="X">
+    <Name></Name>
+    <Phone></Phone>
+    <Address NearestAirport="XXX">
+      <Number></Number>
+      <Street></Street>
+      <City></City>
+      <State></State>
+      <Zip></Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark Rating="X">
+    <Name></Name>
+    <Phone></Phone>
+    <Address NearestAirport="XXX">
+      <Number></Number>
+      <Street></Street>
+      <City></City>
+      <State></State>
+      <Zip></Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark Rating="X">
+    <Name></Name>
+    <Phone></Phone>
+    <Address NearestAirport="XXX">
+      <Number></Number>
+      <Street></Street>
+      <City></City>
+      <State></State>
+      <Zip></Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark Rating="X">
+    <Name></Name>
+    <Phone></Phone>
+    <Address NearestAirport="XXX">
+      <Number></Number>
+      <Street></Street>
+      <City></City>
+      <State></State>
+      <Zip></Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark Rating="X">
+    <Name></Name>
+    <Phone></Phone>
+    <Address NearestAirport="XXX">
+      <Number></Number>
+      <Street></Street>
+      <City></City>
+      <State></State>
+      <Zip></Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark Rating="X">
+    <Name></Name>
+    <Phone></Phone>
+    <Address NearestAirport="XXX">
+      <Number></Number>
+      <Street></Street>
+      <City></City>
+      <State></State>
+      <Zip></Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark Rating="X">
+    <Name></Name>
+    <Phone></Phone>
+    <Address NearestAirport="XXX">
+      <Number></Number>
+      <Street></Street>
+      <City></City>
+      <State></State>
+      <Zip></Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark Rating="X">
+    <Name></Name>
+    <Phone></Phone>
+    <Address NearestAirport="XXX">
+      <Number></Number>
+      <Street></Street>
+      <City></City>
+      <State></State>
+      <Zip></Zip>
     </Address>
   </NationalPark>
 
