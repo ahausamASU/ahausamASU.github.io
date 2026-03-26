@@ -2,7 +2,7 @@
 <NationalParks>
   
   <NationalPark Rating="X">
-    <Name></Name>
+    <Name>Yellowstone National Park</Name>
     <Phone></Phone>
     <Address NearestAirport="XXX">
       <Number></Number>
@@ -14,7 +14,7 @@
   </NationalPark>
 
   <NationalPark Rating="X">
-    <Name></Name>
+    <Name>Yosemite National Park</Name>
     <Phone></Phone>
     <Address NearestAirport="XXX">
       <Number></Number>
@@ -26,7 +26,7 @@
   </NationalPark>
 
   <NationalPark Rating="X">
-    <Name></Name>
+    <Name>Zion National Park</Name>
     <Phone></Phone>
     <Address NearestAirport="XXX">
       <Number></Number>
@@ -38,7 +38,7 @@
   </NationalPark>
 
   <NationalPark Rating="X">
-    <Name></Name>
+    <Name>Rocky Mountain National Park</Name>
     <Phone></Phone>
     <Address NearestAirport="XXX">
       <Number></Number>
@@ -50,7 +50,7 @@
   </NationalPark>
 
   <NationalPark Rating="X">
-    <Name></Name>
+    <Name>Acadia National Park</Name>
     <Phone></Phone>
     <Address NearestAirport="XXX">
       <Number></Number>
@@ -62,7 +62,7 @@
   </NationalPark>
 
   <NationalPark Rating="X">
-    <Name></Name>
+    <Name>Glacier National Park</Name>
     <Phone></Phone>
     <Address NearestAirport="XXX">
       <Number></Number>
@@ -74,7 +74,7 @@
   </NationalPark>
 
   <NationalPark Rating="X">
-    <Name></Name>
+    <Name>Olympic National Park</Name>
     <Phone></Phone>
     <Address NearestAirport="XXX">
       <Number></Number>
@@ -86,7 +86,7 @@
   </NationalPark>
 
   <NationalPark Rating="X">
-    <Name></Name>
+    <Name>Arches National Park</Name>
     <Phone></Phone>
     <Address NearestAirport="XXX">
       <Number></Number>
@@ -98,7 +98,7 @@
   </NationalPark>
 
   <NationalPark Rating="X">
-    <Name></Name>
+    <Name>Everglades National Park</Name>
     <Phone></Phone>
     <Address NearestAirport="XXX">
       <Number></Number>
@@ -110,7 +110,7 @@
   </NationalPark>
 
   <NationalPark Rating="X">
-    <Name></Name>
+    <Name>Joshua Tree National Park</Name>
     <Phone></Phone>
     <Address NearestAirport="XXX">
       <Number></Number>
